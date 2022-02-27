@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wujie-jay.github.io/tags/index.html</loc>
+    <loc>https://wujie-jay.github.io/about/index.html</loc>
+    
+    <lastmod>2022-02-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wujie-jay.github.io/link/index.html</loc>
     
     <lastmod>2022-02-27</lastmod>
     
@@ -12,6 +21,15 @@
   
   <url>
     <loc>https://wujie-jay.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-02-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wujie-jay.github.io/tags/index.html</loc>
     
     <lastmod>2022-02-27</lastmod>
     
@@ -39,24 +57,6 @@
   
   <url>
     <loc>https://wujie-jay.github.io/archives/16107.html</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wujie-jay.github.io/link/index.html</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wujie-jay.github.io/about/index.html</loc>
     
     <lastmod>2022-02-26</lastmod>
     
