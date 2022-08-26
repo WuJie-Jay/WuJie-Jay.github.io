@@ -4,6 +4,9 @@ hexo g-----加载新文档
 hexo s-----本地预览（http://localhost:4000/）
 hexo-----上传到服务器
 
+注意图片需要使用上传网站后的链接，才能正常显示。
+
+title的日期记得修改，“abbrlink”会根据设置的日期自动生成当前网页编码
 
 /*复制以下内容到文档title，进行文档加密*/
 password: Jay
