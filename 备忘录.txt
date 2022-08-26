@@ -1,0 +1,14 @@
+到blog文件夹位置下，右键打开本地服务器bash：
+hexo clean------清空缓存
+hexo g-----加载新文档
+hexo s-----本地预览（http://localhost:4000/）
+hexo-----上传到服务器
+
+
+/*复制以下内容到文档title，进行文档加密*/
+password: Jay
+abstract: 有东西被加密了, 请输入密码查看.
+message: 您好, 这里需要密码.
+wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
+wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
+
