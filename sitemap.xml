@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wujie-jay.github.io/archives/aa0d1297.html</loc>
+    
+    <lastmod>2022-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wujie-jay.github.io/archives/c336656a.html</loc>
     
     <lastmod>2022-09-04</lastmod>
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://wujie-jay.github.io/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <lastmod>2022-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,56 +111,70 @@
   
   <url>
     <loc>https://wujie-jay.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <lastmod>2022-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wujie-jay.github.io/tags/%E7%A7%91%E7%A0%94/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <lastmod>2022-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wujie-jay.github.io/tags/%E6%AF%94%E8%B5%9B/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <lastmod>2022-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wujie-jay.github.io/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/</loc>
-    <lastmod>2022-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://wujie-jay.github.io/tags/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <loc>https://wujie-jay.github.io/tags/%E8%A7%86%E8%A7%89/</loc>
+    <lastmod>2022-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wujie-jay.github.io/tags/%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <lastmod>2022-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wujie-jay.github.io/tags/%E5%BC%80%E9%A2%98/</loc>
+    <lastmod>2022-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wujie-jay.github.io/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/</loc>
+    <lastmod>2022-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wujie-jay.github.io/tags/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/</loc>
+    <lastmod>2022-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wujie-jay.github.io/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <lastmod>2022-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wujie-jay.github.io/tags/%E7%A0%94%E7%A9%B6%E7%83%AD%E7%82%B9/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <lastmod>2022-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -160,7 +183,7 @@
   
   <url>
     <loc>https://wujie-jay.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-09-04</lastmod>
+    <lastmod>2022-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
