@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://wujie-jay.github.io/archives/3f24c9a8.html</loc>
+    <lastmod>2022-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://wujie-jay.github.io/archives/ecf484f0.html</loc>
+    <lastmod>2022-11-06</lastmod>
+  </url>
+  <url>
     <loc>https://wujie-jay.github.io/archives/375e7a9.html</loc>
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2022-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://wujie-jay.github.io/archives/25519.html</loc>
+    <lastmod>2022-10-11</lastmod>
   </url>
   <url>
     <loc>https://wujie-jay.github.io/archives/aa0d1297.html</loc>
@@ -23,13 +35,5 @@
   <url>
     <loc>https://wujie-jay.github.io/archives/b13dfb3f.html</loc>
     <lastmod>2022-08-26</lastmod>
-  </url>
-  <url>
-    <loc>https://wujie-jay.github.io/archives/25519.html</loc>
-    <lastmod>2022-08-26</lastmod>
-  </url>
-  <url>
-    <loc>https://wujie-jay.github.io/archives/16107.html</loc>
-    <lastmod>2022-02-27</lastmod>
   </url>
 </urlset> 
